@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Abdulwasii Luqman",
+	"description": "A FFC project boilerplate for learning how to manage npm packages",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
